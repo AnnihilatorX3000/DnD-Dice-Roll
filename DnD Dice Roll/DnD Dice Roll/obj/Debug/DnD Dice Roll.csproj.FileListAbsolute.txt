@@ -1,0 +1,7 @@
+C:\Users\AnnihilatorX3000\source\repos\DnD Dice Roll\DnD Dice Roll\bin\Debug\DnD Dice Roll.exe.config
+C:\Users\AnnihilatorX3000\source\repos\DnD Dice Roll\DnD Dice Roll\bin\Debug\DnD Dice Roll.exe
+C:\Users\AnnihilatorX3000\source\repos\DnD Dice Roll\DnD Dice Roll\bin\Debug\DnD Dice Roll.pdb
+C:\Users\AnnihilatorX3000\source\repos\DnD Dice Roll\DnD Dice Roll\obj\Debug\DnD Dice Roll.csproj.CoreCompileInputs.cache
+C:\Users\AnnihilatorX3000\source\repos\DnD Dice Roll\DnD Dice Roll\obj\Debug\DnD Dice Roll.exe
+C:\Users\AnnihilatorX3000\source\repos\DnD Dice Roll\DnD Dice Roll\obj\Debug\DnD Dice Roll.pdb
+C:\Users\AnnihilatorX3000\source\repos\DnD Dice Roll\DnD Dice Roll\obj\Debug\DnD Dice Roll.csprojAssemblyReference.cache
